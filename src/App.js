@@ -1,9 +1,17 @@
 import React from 'react';
+
+import Counter from './components/Counter';
+
 import './App.css';
 
 function App() {
   return (
-    <h1>Redux Counter App</h1>
+    <div className="container">
+      <div>
+        <h1>Redux Counter App</h1>
+      </div>
+      <Counter />
+    </div>
   );
 }
 
