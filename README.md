@@ -1,3 +1,7 @@
+# Simple Counter App
+
+## A counter app, to understand redux fundamentals.
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
